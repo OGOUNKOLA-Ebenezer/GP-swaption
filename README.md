@@ -13,14 +13,14 @@ The model is based on a **finite-dimensional GP approximation** using a **Matér
 
 ---
 
-## 🧩 Key Features
+##  Key Features
 
-- ✅ 3D anisotropic Matérn 5/2 kernel (expiry × tenor × strike)  
-- ✅ Linear constraints for **monotonicity** and **convexity** in strike  
-- ✅ Optional **in-plane consistency** across maturities  
-- ✅ MLE of hyperparameters and constrained MAP estimation  
-- ✅ Efficient and numerically stable optimization (with regularization)  
-- ✅ Visualization of reconstructed swaption surfaces  
+-  3D anisotropic Matérn 5/2 kernel (expiry × tenor × strike)  
+- Linear constraints for **monotonicity** and **convexity** in strike  
+-  Optional **in-plane consistency** across maturities  
+-  MLE of hyperparameters and constrained MAP estimation  
+-  Efficient and numerically stable optimization (with regularization)  
+-  Visualization of reconstructed swaption surfaces  
 
 ---
 
