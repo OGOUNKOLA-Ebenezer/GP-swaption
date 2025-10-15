@@ -1,10 +1,10 @@
-# 🧠 Constrained Gaussian Process for Swaption Cube Calibration
+#  Constrained Gaussian Process for Swaption Cube Calibration
 
-### 📈 A machine learning approach for building an arbitrage-free swaption cube under shape constraints
+###  A machine learning approach for building an arbitrage-free swaption cube under shape constraints
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project implements a **Constrained Gaussian Process (GP)** model for reconstructing a smooth, arbitrage-free **swaption cube** of prices (or implied volatilities).  
 It enforces **financially consistent constraints** — monotonicity and convexity — directly during the optimization.
