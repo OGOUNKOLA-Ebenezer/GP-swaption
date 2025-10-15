@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Oct  3 08:11:04 2025
-
-@author: Dell
+@author: OGOUNKOLA Ebénézer
 """
 import numpy as np
 from scipy.stats import norm
