@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Oct  3 08:36:16 2025
 
-@author: Dell
+@author: OGOUNKOLA Ebénézer
 """
 
 import numpy as np
